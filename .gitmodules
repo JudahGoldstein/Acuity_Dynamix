@@ -1,3 +1,6 @@
 [submodule "themes/hugo-story"]
 	path = themes/hugo-story
 	url = https://github.com/caressofsteel/hugo-story.git
+[submodule "themes/hugo-hero-theme"]
+	path = themes/hugo-hero-theme
+	url = https://github.com/zerostaticthemes/hugo-hero-theme.git
