@@ -1,0 +1,51 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Acuity Dynamix"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "favicon.png"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.png"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "Acuity Dynamix"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
