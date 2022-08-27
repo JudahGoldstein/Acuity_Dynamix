@@ -1,12 +1,12 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "link": "https://github.com/JudahGoldstein/Acuity_Dynamix",
         "image": "social/github.svg"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "social/twitter.svg"
+        "name": "book",
+        "link": "https://fairfieldproject.fandom.com/wiki/Special_Delivery_(2021)",
+        "image": "social/icon.svg"
     }
 ]
