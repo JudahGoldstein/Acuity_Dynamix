@@ -1,9 +1,9 @@
 ---
-title: 'Integrity & Performance'
+title: 'Integrity & Responsibility'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
 background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+Part of working for forign and private intrests is ensuring that we only create technology wor those who wont use if for purposes that our company can not morrally agree with. Acuity Dynamix is an american company and proud of it, becaure of that we have a commitment to ensuring our technology does not fall into the hands of those looking to destroy our home country. Acuity Dynamix is also the #1 funder of research into the ethics of computing and in spreading that information to the next generation of technologists in hopes that these lesssons of history are never forgoten. 
