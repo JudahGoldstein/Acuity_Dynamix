@@ -26,10 +26,10 @@ theme = "hugo-hero-theme"
 	url = "/services/"
 	weight = 1
 
-#[[menu.main]]
-#    name = "Work"
-#    url = "/work/"
-#    weight = 2
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
 
 [[menu.main]]
     name = "About"
