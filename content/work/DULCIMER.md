@@ -9,4 +9,4 @@ thumbnail: 'work/dulcimer-000.png'
 images: ['work/dulcimer-000.png', 'work/dulcimer-001.png', 'work/dulcimer-002.png', 'work/dulcimer-003.png', 'work/dulcimer-004.png', 'work/dulcimer-005.png', 'work/dulcimer-006.png']
 ---
 
-Project DULCIMER was the first recorded application of big data techniques to mass surveillance programs. Although rudimentary by modern standards DULCIMER at the time was the cutting edge. Developed by NSA engineers that would later found Acuity Dynamix. see the declassified report below. 
+Project DULCIMER was the first recorded application of big data techniques to mass surveillance programs. Although rudimentary by modern standards DULCIMER at the time was the cutting edge. Developed by NSA engineers that would later found Acuity Dynamix. See the declassified report below. 
